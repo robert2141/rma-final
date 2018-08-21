@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DEtector</string>
+    <string name="btn_recognize_text">Detektiraj</string>
+    <string name="result_no_component_found">Nepoznato</string>
+    <string name="result_confident_component_found">Ovo je %1$s.</string>
+    <string name="result_think_component_found">Ovo je vjerojatno %1$s.</string>
+    <string name="result_maybe_component_found">Ovo je možda %1$s.</string>
+    <string name="vise_informacija">Više informacija</string>
+</resources>

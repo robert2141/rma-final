@@ -1,0 +1,9 @@
+senzor dima
+zica
+dioda
+prototipna plocica
+senzor za pracenje linije
+baterija
+servo motor
+display
+ultrazvucni modul
